@@ -1,2 +1,4 @@
 #!/bin/bash
-cp -r holbertonschool-shell.html
+mkdir /tmp/test_html
+touch /tmp/test_html/file_0.html
+cp -u /tmp/test_html/*.html
