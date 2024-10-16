@@ -1,0 +1,2 @@
+#!/bin/bash
+tail iacta >> io_redirections_and_filters
